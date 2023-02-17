@@ -1,0 +1,34 @@
+{
+  "name": "ina219",
+  "version": "1.0.0",
+  "description": "INA219 wattmeter sensor library",
+  "main": "ina219.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altereitay/ina219.git"
+  },
+  "keywords": [
+    "ina219",
+    "INA219",
+    "dfrobot",
+    "DFROBOT",
+    "DFRobot",
+    "wattmeter",
+    "sensor",
+    "raspberry",
+    "pi",
+    "rpi"
+  ],
+  "author": "Eitay Alter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altereitay/ina219/issues"
+  },
+  "homepage": "https://github.com/altereitay/ina219#readme",
+  "dependencies": {
+    "i2c-bus": "^5.2.2"
+  }
+}

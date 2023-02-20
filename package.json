@@ -1,6 +1,6 @@
 {
-  "name": "ina219",
-  "version": "1.0.0",
+  "name": "ina219-sync",
+  "version": "1.0.2",
   "description": "INA219 wattmeter sensor library",
   "main": "ina219.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/altereitay/ina219.git"
+    "url": "git+https://github.com/altereitay/ina219-sync"
   },
   "keywords": [
     "ina219",

@@ -7,7 +7,7 @@ The main idea to rebuilt it it's to have easier with non callback hell way to co
 # Usage
 To use the package you can start with this simple code: 
 ```javascript
-const ina219 = require('ina219');
+const ina219 = require('ina219-sync');
 
 const sensor = new ina219();
 
@@ -25,7 +25,7 @@ This code will give the current (in mili apm) and to voltage (in volt) every sec
 I have the DFrobot version of the sensor which is identical to the original Texas Instrument sensor, 
 it's configured to use the 0x45 i2c bus and bus line 1, which are of curse configurable for example:
 ```javascript
-const ina219 = require('ina219');
+const ina219 = require('ina219-sync');
 
 const sensor = new ina219(0x40, 2);
 ```

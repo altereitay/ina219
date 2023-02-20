@@ -1,4 +1,4 @@
-# ina219
+# ina219-sync
 Repository for working with the INA219 wattmeter sensor in a simple, straight forward way. 
 
 I've built this repo based on this https://github.com/brettmarl/node-ina219.
